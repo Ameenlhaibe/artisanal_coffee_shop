@@ -26,18 +26,20 @@ This application is an elite **Artisanal Coffee Shop Management Catalog** built 
 
 ---
 
+---
+
 ## Images
 
 The application features a clean, responsive layout across all primary views using both dynamic network assets and local configurations.
 
 ### Home Screen
 
-![Home Screen](assets/images/home.png)
+![Home Screen](assets/images/home.dart.png)
 
 ### Products Screen
 
-![Products Screen](assets/images/list.png)
+![Products Screen](assets/images/list.dart.png)
 
 ### Details Screen
 
-![Details Screen](assets/images/details.png)
+![Details Screen](assets/images/details.dart.png)
